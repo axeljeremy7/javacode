@@ -1,23 +1,12 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
-package labbwer;
+
+package trabajo1;
 
 import java.util.Arrays;
 import javax.swing.JOptionPane;
-// Name: Axel Jeremy Solano Illesca
-// Lab number:lab4
-// Day:Sunday 18 at 11.59pm
-//Course:CS 1110 lab on mondays at 12:30pm
-//Porfessor :Vinay Gavirangaswamy
 
-/**
- *
- * @author CAE-User
- */
-public class Labbwer {
+// the code works well but it can be improved in the main method
+// to no write more lines of code
+public class trabajo1 {
 
     /**
      * @param args the command line arguments
